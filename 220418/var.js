@@ -1,5 +1,9 @@
 // alert("start javaScript!!");
 
+
+
+// let randomNum2 = Math.random() 
+
 // 변수명 이름 규칙
 /*
     1. 알파벳, _, -, 숫자 (한글, 특수문자, 일본어 권장 X)
@@ -39,6 +43,6 @@ const constName = "jinwang";  // 상수 값이 수정될 일이 없는 변수. �
 // 게임에서 1스테이지 맵의 크기
 // 1스테이지 보스 이름 
 // document를 변수로 선언 할 때
-constName = 'kjh';
+// constName = 'kjh';
 console.log(constName);
 // 사람이 알고있는 언어를 컴퓨터가 아는 언어로 바꿔주는 것(컴파일) 
